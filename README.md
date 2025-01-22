@@ -1,6 +1,6 @@
 # Hi, I'm Sarthak Zende 👋
 
-### DATA ENGINEERING • ANALYTICS • CLOUD
+### DATA ENGINEERING • DATA ANALYTICS • CLOUD 
 
 A passionate Data Engineer and Graduate Student focusing on building scalable data pipelines and analytics solutions. Currently pursuing MS in Computer Science at Binghamton University with expertise in big data technologies, cloud platforms, and distributed systems.
 
