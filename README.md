@@ -20,9 +20,9 @@ A passionate Data Engineer and Graduate Student focusing on building scalable da
 - ✔️ Learn new things and try different foods 🍣
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/sarthakzende/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+* 👨‍💻 All of my projects are available at [my GitHub](https://github.com/SarthakZende379)
+* 📫 How to reach me: **szende@binghamton.edu**
+* 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sarthakzende/)
 
 ### Languages and Tools:
 <p align="left">
