@@ -1,13 +1,9 @@
 <div align="center">
 
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<!-- Served from this repo, always renders -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,45:8B5CF6,100:06B6D4&height=210&section=header&text=Sarthak%20Zende&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Data%20%26%20Analytics&descSize=20&descAlignY=58" width="100%"/>
-
-<!-- Typing animation -->
-<a href="https://github.com/SarthakZende379">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Teli+AI;Building+LLM+Apps+%26+Agentic+Workflows;LangGraph+%C2%B7+RAG+Pipelines+%C2%B7+MCP+Tools;Data+Engineering+on+AWS+%26+Azure" alt="Typing SVG" />
-</a>
+<img src="assets/header.svg" width="100%" alt="Sarthak Zende, AI Engineer, Software Engineer, Data and Analytics"/>
 
 <br/><br/>
 
@@ -28,7 +24,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Software Engineer at **Teli AI**, building **Origna8**, an AI powered mortgage origination and CRM platform (React + TypeScript, Supabase, Deno edge functions)
+- 🔭 Software Engineer at a **stealth AI startup**, building an AI powered mortgage origination and CRM platform (React + TypeScript, Supabase, Deno edge functions)
 - 🎓 MS in Computer Science, SUNY Binghamton (Dec 2025)
 - 🤖 I live at the intersection of **LLM application development**, **agentic workflows**, and **data engineering**
 - 🧩 Recent obsessions: LangGraph state machines, MCP tool servers, RAG evals, and inference benchmarking
@@ -90,26 +86,6 @@
 
 ## 💼 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/SarthakZende379/llm-bench">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakZende379&repo=llm-bench&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/SarthakZende379/finqa-rag">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakZende379&repo=finqa-rag&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<br/>
-<a href="https://github.com/SarthakZende379/mcp-engineering-ops">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakZende379&repo=mcp-engineering-ops&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-<a href="https://github.com/SarthakZende379/lease-analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakZende379&repo=lease-analyzer&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-
-</div>
-
-<br/>
-
 | Project | What it does | Stack |
 |---|---|---|
 | 🧪 [**llm-bench**](https://github.com/SarthakZende379/llm-bench) | Benchmarks free LLM APIs by TTFT, throughput and cost, with a live dashboard | LangGraph · LangChain · Streamlit · SQLite |
@@ -127,20 +103,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SarthakZende379&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true&include_all_commits=true" />
-<img height="170" src="https://streak-stats.demolab.com?user=SarthakZende379&theme=tokyonight&hide_border=true&background=1a1b27" />
+<!-- Generated daily by GitHub Actions and stored in this repo, so it always loads -->
+<img src="metrics.svg" width="100%" alt="GitHub metrics"/>
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakZende379&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&hide=html,css&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SarthakZende379&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarthakZende379&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=8B5CF6&line=06B6D4&point=ffffff&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarthakZende379&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=8B5CF6&line=06B6D4&point=ffffff&area=true" width="100%" alt="Contribution activity graph"/>
 
 </div>
 
@@ -162,13 +130,9 @@
 
 <br/>
 
-<!-- ═══════════════════════════ QUOTE + FOOTER ═══════════════════════════ -->
+<!-- ═══════════════════════════ CONNECT + FOOTER ═══════════════════════════ -->
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br/><br/>
 
 ### 🤝 Let's build something
 
@@ -180,6 +144,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:8B5CF6,100:1a1b27&height=140&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%" alt="Footer"/>
 
 </div>
