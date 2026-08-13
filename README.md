@@ -27,7 +27,7 @@
 - 🔭 Software Engineer at a **stealth AI startup**, building an AI powered mortgage origination and CRM platform (React + TypeScript, Supabase, Deno edge functions)
 - 🎓 MS in Computer Science, SUNY Binghamton (Dec 2025)
 - 🤖 I live at the intersection of **LLM application development**, **agentic workflows**, and **data engineering**
-- 🧩 Recent obsessions: LangGraph state machines, MCP tool servers, RAG evals, and inference benchmarking
+- 🧩 Recent obsessions: LangGraph state machines, MCP servers, RAG evals, and inference benchmarking
 - 🛢️ Also fluent in the unglamorous stuff that makes it all work: ETL pipelines, star schema warehouses, serverless AWS, Power BI
 - 🏅 AWS Certified Cloud Practitioner &nbsp;•&nbsp; Microsoft Azure DP-900
 - 💬 Ask me about RAG pipelines, agent architectures, or why your USB-C monitor is not charging your laptop
